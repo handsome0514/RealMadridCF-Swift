@@ -1,0 +1,19 @@
+/* 
+  Strings.strings
+  RealMadridCF
+
+  Created by mac on 3/3/24.
+  
+*/
+"Goalkeepers" = "Goalkeepers";
+"Defenders" = "Defenders";
+"Midfielders" = "Midfielders";
+"Forwards" = "Forwards";
+"Website" = "Website";
+"Enter website url" = "Enter website url";
+"Goalkeeper" = "Goalkeeper";
+"Defender" = "Defender";
+"Midfielder" = "Midfielder";
+"Forward" = "Forward";
+"OK" = "OK";
+"Cancel" = "Cancel";
