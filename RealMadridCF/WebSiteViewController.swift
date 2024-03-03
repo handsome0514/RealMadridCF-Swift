@@ -1,36 +1,3 @@
-//
-//  WebSiteViewController.swift
-//  Soccer
-//
-//  Created by mac on 2/29/24.
-//
-
-import Foundation
-import UIKit
-import WebKit
-
-class WebSiteViewController: UIViewController {
-    
-    @IBOutlet weak var webView: WKWebView!
-    @IBOutlet weak var backBtn: UIButton!
-    
-    var websitelink: String = ""
-    
-    override func viewDidLoad() {
-        let url = URL (string: websitelink)
-        let requestObj = URLRequest(url: url!)
-        backBtn.setTitle("", for: .normal)
-        webView.load(requestObj)
-        webView.layer.cornerRadius = 20.0
-        webView.layer.masksToBounds = true
-    }
-    @IBAction func backDetailVC(_ sender: Any) {
-        navigationController?.popViewController(animated: true)
-    }
-    
-    override func viewDidDisappear(_ animated: Bool) {
-        let url = URL (string: "about:blank")
-        let requestObj = URLRequest(url: url!)
-        webView.load(requestObj)
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:8244a096b69d60e2ecd28e2cfc5801a75cf42c33e7ca42c0e68c96dcdd42c578
+size 916

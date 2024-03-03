@@ -1,15 +1,3 @@
-//
-//  Players.swift
-//  Soccer
-//
-//  Created by mac on 2/29/24.
-//
-
-import Foundation
-
-struct Players {
-    static var selected: Int = 0
-    static var section: Int = 0
-    static var isDarkMode: Bool = false
-    static var players: [Player] = []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:c5db1447d49b4ededd17dedd74145e06be5c694c500e30206ff0a7af24bf1432
+size 251

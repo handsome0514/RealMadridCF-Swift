@@ -1,8 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>_XCCurrentVersionName</key>
-	<string>RealMadridCF.xcdatamodel</string>
-</dict>
-</plist>
+version https://git-lfs.github.com/spec/v1
+oid sha256:e75c5c71d55cf3e9f0ecb4251922e994aae2114bee97316013a6bb13506bf45f
+size 265

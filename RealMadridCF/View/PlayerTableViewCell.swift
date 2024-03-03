@@ -1,20 +1,3 @@
-//
-//  PlayerTableViewCell.swift
-//  Soccer
-//
-//  Created by mac on 2/29/24.
-//
-
-import Foundation
-import UIKit
-
-class PlayerTableViewCell: UITableViewCell {
-    
-    @IBOutlet weak var avatar: UIImageView!
-    @IBOutlet weak var name: UILabel!
-    @IBOutlet weak var position: UILabel!
-    @IBOutlet weak var age: UILabel!
-    @IBOutlet weak var nation: UIImageView!
-    @IBOutlet weak var number: UILabel!
-    
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ec35dd82e5dad1c3bd2249b3418dc8fc70866d394058c5e335c5bff8d31fdb8
+size 416
